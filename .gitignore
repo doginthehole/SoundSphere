@@ -1,0 +1,36 @@
+Temp/
+obj/
+Build
+Library/
+
+     ExportedObj/
+     *.svd
+     *.userprefs
+     *.csproj
+     *.pidb
+     *.suo
+     *.sln
+     *.user
+     *.unityproj
+     *.booproj
+     *.orig
+     *.app
+     *.exe
+     *.*_data
+     
+     Build/iOS
+     Build/android
+     
+     *.[od]
+     
+     # ============ #
+     # OS generated #
+     # ============ #
+     .DS_Store
+     .DS_Store?
+     ._*
+     .Spotlight-V100
+     .Trashes
+     Icon?
+     ehthumbs.db
+     Thumbs.db
