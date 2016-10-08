@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundSphere.CSharp.Plugins", "SoundSphere.CSharp.Plugins.csproj", "{D4006EAB-6934-429D-899B-E5049CDAAA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundSphere.CSharp", "SoundSphere.CSharp.csproj", "{1947D9E0-1052-E6A8-CEE2-FFE54F828672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundSphere.CSharp.Editor", "SoundSphere.CSharp.Editor.csproj", "{F99620FD-2A7E-918E-E165-EF528630C155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4006EAB-6934-429D-899B-E5049CDAAA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4006EAB-6934-429D-899B-E5049CDAAA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4006EAB-6934-429D-899B-E5049CDAAA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4006EAB-6934-429D-899B-E5049CDAAA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1947D9E0-1052-E6A8-CEE2-FFE54F828672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1947D9E0-1052-E6A8-CEE2-FFE54F828672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1947D9E0-1052-E6A8-CEE2-FFE54F828672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1947D9E0-1052-E6A8-CEE2-FFE54F828672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99620FD-2A7E-918E-E165-EF528630C155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99620FD-2A7E-918E-E165-EF528630C155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99620FD-2A7E-918E-E165-EF528630C155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99620FD-2A7E-918E-E165-EF528630C155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
